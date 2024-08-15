@@ -1,3 +1,5 @@
+![Bone Framework](https://github.com/boneframework/.github/blob/master/profile/splash.png?raw=true "Bone Framework")
+
 # Welcome 🏴‍☠️
 Bone Framework is the quickest and easiest way to start making both websites and native apps. 
 
