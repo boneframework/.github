@@ -6,6 +6,9 @@ Bone Framework is the quickest and easiest way to start making both websites and
 Almost every app needs secure user login functionaslity. With Bone Native, you can have a ready-to-rock smartphone app with user registration taken care of. The Backend API
 is secured via OAuth2, the same secure login system used by Facebook, X, Google, and others. 
 
+## Installer
+Our installer script is the fastest way to get a fully preconfigured and functioning server, API, and native app ready for development. see [here](https://github.com/boneframework/installer)
+
 ## Docker Based Lamp Stack 🐳
 - Apache site with SSL vertificate
 - PHP with Composer and lots of extensions installed
